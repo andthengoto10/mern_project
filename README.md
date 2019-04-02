@@ -1,4 +1,4 @@
-students MERN application
-web page for  Students
+helpers MERN application
+social network for helpers
 
 npm start starts frontend
